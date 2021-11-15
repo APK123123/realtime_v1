@@ -6,7 +6,7 @@ function setup() {
 }
 function draw(){
 
-image(video)
+image(video, 0, 0, 300, 300);
 
 }
 
